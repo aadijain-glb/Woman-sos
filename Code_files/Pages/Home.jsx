@@ -17,7 +17,7 @@ import apiClient from "../api/apiClient";
 import { startSOS } from "../Layout.js/Functions/StartSOS";
 
 
-import SOSButton from "@/components/sos/SOSButton";
+import SOSButton from "@/Components/sos/SOSButton";
 import StatusCard from "@/components/ui/StatusCard";
 import BottomNav from "@/components/ui/BottomNav";
 import SOSActiveAlert from "@/components/alerts/SOSActiveAlerts";
